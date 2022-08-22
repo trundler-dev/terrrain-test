@@ -24,8 +24,8 @@
 	</ItemGroup>
 
   <PropertyGroup>
-	<OutputPath>../.vs/output/</OutputPath>
-	<DocumentationFile>../.vs/output/my_game.xml</DocumentationFile>
+	<OutputPath>C:\Program Files (x86)\Steam\steamapps\common\sbox/.vs/output/</OutputPath>
+	<DocumentationFile>C:\Program Files (x86)\Steam\steamapps\common\sbox/.vs/output/my_game.xml</DocumentationFile>
 	<RootNamespace>MyGame</RootNamespace>
 	<Nullable>disable</Nullable>
   </PropertyGroup>
